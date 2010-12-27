@@ -6,6 +6,9 @@
 - no namespace conflicts with natives in user code
 - no negative performance impacts if using it
 
+## Installation
+	$ npm install natives
+	
 ## Usage
 
 	var n = require('natives');

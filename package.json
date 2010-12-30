@@ -1,14 +1,14 @@
 {
     "name": "natives",
     "description": "Require all nodes builtin modules (natives) in one go",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "author": "Oleg Slobodskoi <oleg008@gmail.com>",
     "repository": {
         "type": "git",
         "url": "http://github.com/kof/node-natives.git"
     },
     "keywords": [ "natives", "builtin" ],
-    "main": "./natives.js",
+    "main": "./lib/natives.js",
     "engines": { "node": ">= 0.2.0" },
     "licenses": [
         { 
